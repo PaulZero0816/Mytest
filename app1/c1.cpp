@@ -2,5 +2,7 @@
 using namespace std;
 int main()
 {
-cout<<"I believe in myself!"<<endl;
+int a=1;
+int b=2;
+cout<<a-b<<endl;
 }
